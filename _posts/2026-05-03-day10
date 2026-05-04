@@ -8,4 +8,4 @@ while I was trying to figure out my path, I'm a little intimidated by this one. 
 like I might know what I'm doing, hopefully that holds true through this lesson.
 
 Update 1: getting the computer choice to be a random whole # between 0 - 2, and then assigning each whole number a "selection" of rock, paper, or scissors, was extremely easy, especially after doing the
-reading in the prior lesson. Everything falls apart for me when I need to turn that into a proper function though, and the instructions clearly say it should be one.
+reading in the prior lesson. Everything falls apart for me when I need to turn getComputerChoice into a proper function though, and the instructions clearly say it should be one.
