@@ -10,7 +10,7 @@ like I might know what I'm doing, hopefully that holds true through this lesson.
 Update 1: getting the computer choice to be a random whole # between 0 - 2, and then assigning each whole number a "selection" of rock, paper, or scissors, was extremely easy, especially after doing the
 reading in the prior lesson. Everything falls apart for me when I need to turn getComputerChoice into a proper function though, and the instructions clearly say it should be one.
 
-Update 2: 2 hours later and the closest I've come is being able to get a number out of the getComputerChoice funtion, except it returned 1 every time. The problem is not understanding functions well enough,
+Update 2: 2 hours later and the closest I've come is being able to get a number out of the getComputerChoice function, except it returned 1 every time. The problem is not understanding functions well enough,
 I suspect specifically parameters tbh, but I'm at someone else's house tonight, it's very late, and I don't have headphones, so where I'd normally try to go watch some videos on how they work, that's not
 much of an option rn and I think instead I will just try to call it a night and come back to it in the morning. If this were html/css, the answer would probably come to me about 5 minutes into stopping, but
 sadly that's not gonna happen with javascript at this point.
