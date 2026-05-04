@@ -6,3 +6,6 @@ date: 2026-05-03
 Logged in, hit next, and realised today is the start of the Rock, Paper, Scissors assignment. I've gotta admit from the way it was mentioned in previous lessons, and the blog posts/videos I saw
 while I was trying to figure out my path, I'm a little intimidated by this one. I also didn't realise I'd encounter it *before* choosing a path so it kind of caught me off-guard. I'm just starting to feel 
 like I might know what I'm doing, hopefully that holds true through this lesson.
+
+Update 1: getting the computer choice to be a random whole # between 0 - 2, and then assigning each whole number a "selection" of rock, paper, or scissors, was extremely easy, especially after doing the
+reading in the prior lesson. Everything falls apart for me when I need to turn that into a proper function though, and the instructions clearly say it should be one.
